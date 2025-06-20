@@ -9,7 +9,7 @@ PRECO_ICE = 200_000
 CUSTO_ICE = 100_000
 PRECO_GARRAFA = 50_000
 CUSTO_GARRAFA = 15_000
-WEBHOOK_URL = "https://canary.discord.com/api/webhooks/1385159536486256670/PSucvCnQLPc0wukPIbeGRmqJWVs-xtkesmEJAIJE325g-YYg6chpPXABud1UmJFbJ30d"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1385662720979898448/Yu1ww83kqU4g7hoq0YSZR9f013chW-VxIbiv9NmRqlCg__EbzZY8x5Y2m3ZXS-9RAFN6"
 
 # ----------- FUNÇÕES DE ESTILO VISUAL -----------
 
